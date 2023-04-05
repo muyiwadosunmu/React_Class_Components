@@ -3,14 +3,9 @@ import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
 import "./index.css";
-import Form from "./components/Form";
 
 function App() {
-  return (
-    <div className="App">
-      <Form />
-    </div>
-  );
+  return <div className="App"></div>;
 }
 
 export default App;
